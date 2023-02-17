@@ -1,0 +1,2 @@
+module exerc_herancaMultipla_problemaDiamente {
+}
